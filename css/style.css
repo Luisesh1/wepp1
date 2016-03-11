@@ -1,0 +1,14 @@
+div{
+	color: red;
+	background-color: black;
+}
+#hola{
+	border: 4px;
+	border-style: solid;
+}
+.clase1{
+	border: 10px;
+	border-style: solid;
+	border-color: #5698ff;
+	background-color: yellow;
+}
